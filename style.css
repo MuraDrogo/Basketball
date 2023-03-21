@@ -1,0 +1,19 @@
+body{
+    background-color:  #46353d;
+    color: #0c0b0b;
+}
+.card{
+    background-color: #fff;
+    border: 1px solid #ece6e6;
+    text-align: center;
+    margin: 500px  300px  500px 300px;
+}
+.card-text {
+    border: 1px solid #f00909;
+    margin: 15px 220px 15px 220px;
+}
+.card-box-img {
+    border: 1px solid #000;
+    margin: 15px 30px 40px 30px;
+}
+
